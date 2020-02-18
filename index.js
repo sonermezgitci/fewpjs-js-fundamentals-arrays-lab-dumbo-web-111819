@@ -1,9 +1,9 @@
-let append = ["Milo", "Otis", "Garfield"]
-let prepend = ["Milo", "Otis", "Garfield"]
-let removeLast = ["Milo", "Otis", "Garfield"]
-let removeFirst = ["Milo", "Otis", "Garfield"]
-append.push("Odie");
-prepend.unshift("Odie")
-removeLast.pop()
-removeFirst.shift()
+let append =[ "Milo","Otis","Garfield"]
+append.push("Odie")
 
+let prepend =[ "Milo","Otis","Garfield"]
+prepend.unshift("Odie")
+let removeLast =[ "Milo","Otis","Garfield"]
+removeLast.pop();
+let removeFirst =[ "Milo","Otis","Garfield"]
+removeFirst.shift();
